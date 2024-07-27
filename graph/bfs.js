@@ -35,7 +35,7 @@ var bfs = s => {
 }
 
 console.log(g)
-console.log(bfs('A'))
+console.log(bfs('C'))
 
 
 
